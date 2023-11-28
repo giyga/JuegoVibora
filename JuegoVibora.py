@@ -376,9 +376,3 @@ def main(stdscr):
   GameOver(stdscr)
     
 curses.wrapper(main)
-
-'''
-Pendiente por hacer:
-1. Comer y crecer
-2. Colisiones
-3. Menú de juego (Volver a jugar/salir) luego de perder'''
